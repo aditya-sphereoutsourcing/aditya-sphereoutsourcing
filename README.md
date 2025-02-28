@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E95F7&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Aditya!+%F0%9F%9A%80;Tech+Entrepreneur+%7C+AI+Innovator;Building+Future+Unicorns" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E95F7&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Aditya+Choudhry!+%F0%9F%9A%80;Tech+Entrepreneur+%7C+AI+Innovator;Building+Future+Unicorns" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -31,23 +31,40 @@
 </div>
 
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-sphereoutsourcing&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <h2>📊 GitHub Contribution Overview</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-sphereoutsourcing&theme=tokyonight" alt="Contribution Overview"/>
+</div>
+
+<div align="center">
+  <h2>📈 Activity & Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-sphereoutsourcing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-sphereoutsourcing&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
+  <h2>🏆 GitHub Achievements</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=aditya-sphereoutsourcing&theme=discord&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-sphereoutsourcing&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <h2>📊 Most Used Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-sphereoutsourcing&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <h2>🗂️ Highlighted Repositories</h2>
+  <a href="https://github.com/aditya-sphereoutsourcing?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-sphereoutsourcing&repo=ai-job-search&theme=tokyonight&hide_border=true" alt="AI Job Search" />
+  </a>
+  <a href="https://github.com/aditya-sphereoutsourcing?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditya-sphereoutsourcing&repo=network-resilience&theme=tokyonight&hide_border=true" alt="Network Resilience" />
+  </a>
 </div>
 
 ## 🎯 Current Focus & Mission
 
 ```typescript
-const aditya = {
+const adityaChoudhry = {
     mission: "Surpassing Elon Musk in wealth and influence",
     focus: ["AI", "Blockchain", "Decentralized Computing", "Automation"],
     currentlyBuilding: "Next-gen tech startups",
