@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/aditya">
-    <img src="https://img.shields.io/github/followers/aditya?label=Follow&style=social" alt="GitHub followers">
+  <a href="https://github.com/aditya-sphereoutsourcing">
+    <img src="https://img.shields.io/github/followers/aditya-sphereoutsourcing?label=Follow&style=social" alt="GitHub followers">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=aditya&color=blue" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=aditya-sphereoutsourcing&color=blue" alt="Profile Views">
   <a href="https://twitter.com/adityatech">
     <img src="https://img.shields.io/twitter/follow/adityatech?style=social" alt="Twitter Follow">
   </a>
@@ -32,16 +32,16 @@
 
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya-sphereoutsourcing&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-sphereoutsourcing&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditya&theme=discord&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aditya-sphereoutsourcing&theme=discord&no-frame=true&row=1&column=7" alt="trophy" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-sphereoutsourcing&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🎯 Current Focus & Mission
@@ -59,13 +59,13 @@ const aditya = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/aditya-sphereoutsourcing?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/🤖%20AI%20Job%20Search-View%20Project-blue?style=for-the-badge" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/aditya-sphereoutsourcing?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Network%20Resilience-View%20Project-green?style=for-the-badge" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://github.com/aditya-sphereoutsourcing?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/🧠%20AI%20Superintelligence-View%20Project-red?style=for-the-badge" />
   </a>
 </div>
@@ -73,7 +73,7 @@ const aditya = {
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/aditya">
+  <a href="https://github.com/aditya-sphereoutsourcing">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="mailto:aditya@example.com">
@@ -88,5 +88,5 @@ const aditya = {
   <h3>💡 Let's Build the Future Together!</h3>
   <p>Open to collaborations on innovative projects that push the boundaries of technology.</p>
 
-  ![](https://hit.yhype.me/github/profile?user_id=aditya)
+  ![](https://hit.yhype.me/github/profile?user_id=aditya-sphereoutsourcing)
 </div>
