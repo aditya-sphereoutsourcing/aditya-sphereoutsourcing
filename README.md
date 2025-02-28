@@ -7,8 +7,8 @@
     <img src="https://img.shields.io/github/followers/aditya-sphereoutsourcing?label=Follow&style=social" alt="GitHub followers">
   </a>
   <img src="https://komarev.com/ghpvc/?username=aditya-sphereoutsourcing&color=blue" alt="Profile Views">
-  <a href="https://twitter.com/adityatech">
-    <img src="https://img.shields.io/twitter/follow/adityatech?style=social" alt="Twitter Follow">
+  <a href="https://www.linkedin.com/in/aditya-choudhry/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
 </div>
 
@@ -227,8 +227,11 @@ Here's my curated list of **100 revolutionary startup ideas** that could turn in
   <a href="mailto:aditya@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/adityatech">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.linkedin.com/in/aditya-choudhry/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://adityachoudhry.me">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
